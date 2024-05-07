@@ -18,6 +18,7 @@
 // var user>name;
 
 // Question 3
+
 // document.write( " <h1><b>Rules for naming JS variable</b></h1> ")
 // document.write()
 // document.write()
@@ -33,3 +34,5 @@
 // document.write(" Variable must begin with " + spe   + un1   + " or " + alpha)
 // document.write( " Variable name are case " + sens )
 // document.write( " Variable name should not bs JS " + key )
+
+//END
