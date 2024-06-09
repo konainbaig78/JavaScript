@@ -79,7 +79,7 @@
 //     alert("car is smaller than cat");
 //     }
 
-//Question # 6
+// Question # 6
 // var marks1=+prompt('Marks in 1 subj')
 // var marks2=+prompt('Marks in 2 subj')
 // var marks3=+prompt('Marks in 3 subj')
@@ -136,7 +136,7 @@
 //     )
 // }
 
-//Question 7
+// Question 7
 // var secretNum=7
 // var guess=prompt("Guess the number")
 // var close=guess+1
@@ -148,7 +148,7 @@
 //     alert = ("Close enough to the correct answer");
 // } 
 
-//Question 8
+// Question 8
 // var div=prompt("Enter any number which is divisible by 3")
 // if (div % 3 === 0){
 //     alert("It is divisible")
@@ -199,4 +199,4 @@
 // document.write("The result for modulus is" + rem + "<br>"
 // )
 
-//THE END
+// THE END
