@@ -39,4 +39,4 @@
 // var symbol="▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬";
 // alert(symbol);
 
-//END
+//The END

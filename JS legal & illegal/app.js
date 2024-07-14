@@ -35,4 +35,4 @@
 // document.write( " Variable name are case " + sens )
 // document.write( " Variable name should not bs JS " + key )
 
-//END
+//THE END
