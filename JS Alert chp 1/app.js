@@ -18,4 +18,4 @@
 // Question 5
 // console.log(alert("Hello... I can run JS through my web browser's console"));
 
-// END
+// The END
