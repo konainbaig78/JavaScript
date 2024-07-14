@@ -87,24 +87,39 @@
 //Question # 7
 // var A = ["cake", "apple pie", "cookie", "chips", "patties"];
 // var user = prompt("Welcome to KB Bakery. What do you want to eat?");
+// var match= false
 // for (var i = 0; i < A.length; i++) {
-//   if (A[i] == user) {
-//     indexNo = i;
-//     flag = true;
-//     break;
-//   }
+// if(user==A[i]){
+//     match=true
+//    document.write(user+ " is available at index " + " in our bakery")
+//     break
 // }
-
-// if (flag) {
-//   alert(user + " is avalaible at index " + indexNo + " in our bakery ");
-// } else {
-//   alert("We are sorry. " + user + "is not avalaible in our bakery");
+// }
+// if( match == false){
+//    document.write("We're sorry. " + user + " is not available." )
 // }
 
 //Question # 8
-// let A = [24, 53, 78, 91, 12].
+// var A = [24, 53, 78, 91, 12];
+// var largest = A[0]
+// for (i = 1; i < A.length; i++) {
+//     if (A[i] > largest){largest=A[i];}
+   
+// }
+// document.write("The largest number in the array is" + largest)
+
+// question 9
+// var A = [24, 53, 78, 91, 12];
+// var largest = A[0]
+// for (i = 1; i < A.length; i++) {
+//     if (A[i] < largest){largest=A[i];}
+   
+// }
+// document.write("The shortest number in the array is" + largest)
 
 //Question # 10
 // for (let i=5; i<=100; i+=5){
 //     document.write(i + ", " )
 // }
+
+//The End
